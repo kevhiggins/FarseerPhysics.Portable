@@ -206,7 +206,7 @@ namespace FarseerPhysics
         /// that overlap is removed in one time step. However using values close to 1 often lead
         /// to overshoot.
         /// </summary>
-        public const float Baumgarte = 0.2f;
+        public const float Baumgarte = 1f;
 
         // Sleep
         /// <summary>
